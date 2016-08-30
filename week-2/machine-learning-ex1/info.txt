@@ -1,0 +1,2 @@
+https://github.com/zhouxc/Stanford-Machine-Learning-Course
+https://github.com/schneems/Octave/tree/master/mlclass-ex1
